@@ -20,6 +20,9 @@ body{
     color: #4a6385;
     font-size: 14px;
 }
+img{
+   display: inline-block;
+}
 
 .header{
     border-top: 1px solid #3883e5;
@@ -482,6 +485,9 @@ font-weight: 700;
    list-style-type: none;
    justify-content: space-around;
 }
-
+.pairs li{
+   flex-basis: auto;
+   text-align: center;
+}
 
 
